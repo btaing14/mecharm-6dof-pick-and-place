@@ -6,10 +6,13 @@ Built as a three-person team project for EE 347 (Robotics & Controls) at the Uni
 
 ## Demo
 
-| Challenge 1: Peg insertion | Challenge 2: Tower rebuild |
-|---|---|
-| [▶ Watch video](media/challenge1_peg_insertion.mp4) | [▶ Watch video](media/challenge2_tower_rebuild.mp4) |
-| Picks three pegs from a fixed loading zone and inserts each into its color-coded slot on a slotted bench. | Removes the 1st, 3rd and 5th blocks from a 5-block tower and stacks them into a new tower while a human handles the rest. |
+**Challenge 1: Peg insertion**
+
+https://github.com/user-attachments/assets/2ec03f14-8a59-47b5-bc81-ef12e6fd41f6
+
+**Challenge 2: Tower rebuild**
+
+https://github.com/user-attachments/assets/a69bf12b-cfcb-447e-b5ca-fc2435501352
 
 ## What's in this repo
 
@@ -21,7 +24,6 @@ Lab3/  mecharm_INVK_advanced_group_08.py DH-parameter forward kinematics + numer
 Lab4/  challenge_peg_group_08.py        Challenge 1: peg insertion
        challenge_tower_group_08.py      Challenge 2: tower deconstruct/rebuild (finite-state machine)
        peg.csv, block.csv               Tuned target poses for each challenge
-media/                                  Demo videos
 ```
 
 ## How it works
