@@ -53,3 +53,4 @@ Lab4/  challenge_peg_group_08.py        Challenge 1: peg insertion
 - **Drag-teach inaccuracy:** recorded poses didn't reproduce exactly, so targets were tuned one axis at a time in the CSVs. The remaining slots were placed as X/Y offsets from the first.
 - **Reach limit:** the red slot was too close to the bench edge for the end effector, so the placement order was changed to yellow → light green → orange.
 
+  **Team:** Steven Gong, Nicholas Leung, Bobby Taing
